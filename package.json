@@ -1,0 +1,22 @@
+{
+  "name": "088",
+  "version": "1.0.0",
+  "description": "serice store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netgaint01/zconnect.git"
+  },
+  "keywords": [
+    "088"
+  ],
+  "author": "innovative mind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netgaint01/zconnect/issues"
+  },
+  "homepage": "https://github.com/netgaint01/zconnect#readme"
+}
